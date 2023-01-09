@@ -1,11 +1,11 @@
 .banner{
-    background-image: url('https://wallpaperaccess.com/full/2703652.png');
     background-size: cover;
     height: 448px;
-    color: white;
+    color:  #E1D9D1;
 }
 .content{
     padding-top: 140px;
+  margin-left: 30px;
     height: 190px;
 }
 .title{
@@ -24,7 +24,7 @@
     padding-right: 2rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    background-color: rgba(51,51,51,.5);
+    background-color: rgba(51,51,51,.6);
     cursor: pointer;
     margin-right: 1rem;
 }
